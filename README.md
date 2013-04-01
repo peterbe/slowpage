@@ -1,5 +1,5 @@
-Experimenting with resource download browser behaviour
-======================================================
+Experimenting with browsers' resource download behaviour
+========================================================
 
 By: Peter Bengtsson, mail@peterbe.com
 
